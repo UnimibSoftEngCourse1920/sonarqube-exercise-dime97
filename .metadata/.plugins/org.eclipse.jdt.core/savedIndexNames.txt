@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\dimel\Desktop\Università\Terzo Anno\Ingegneria Del Software\Lab\Lab 4a - SonarQube\.metadata\.plugins\org.eclipse.jdt.core
+322824063.index
+391915494.index
+1419014417.index
+4140679277.index
+4268476684.index
