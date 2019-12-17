@@ -145,7 +145,7 @@ public abstract class TestCase extends Assert implements Test {
         } finally {
             try {
                 tearDown();
-            } catch (Throwable tearingDown) {
+            } catch (Exception tearingDown) {
                 if (exception == null) exception = tearingDown;
             }
         }
