@@ -64,7 +64,7 @@ public class TestMethod {
         return testClass.getAnnotatedMethods(After.class);
     }
 
-    public void invoke(Object test) throws IllegalArgumentException, IllegalAccessException, InvocationTargetException {
+    public void invoke(Object test) throws RuntimeException, IllegalAccessException, InvocationTargetException {
         method.invoke(test);
     }
 
